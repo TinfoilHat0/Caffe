@@ -1,0 +1,1 @@
+./build/tools/caffe train -solver models/p_identify/solver.prototxt -weights models/bvlc_reference_caffenet/bvlc_reference_caffenet.caffemodel
